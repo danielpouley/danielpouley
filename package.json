@@ -20,7 +20,8 @@
 	},
 	"scripts": {
 		"build": "yarn run react-scripts build",
-		"start": "react-scripts start",
+		"osx_start": "react-scripts start",
+		"start": "react-scripts --openssl-legacy-provider start",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"build:css": "postcss src/css/tailwind.css -o src/css/main.css"

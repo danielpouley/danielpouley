@@ -3,8 +3,10 @@
 <!--
 **danielpouley/danielpouley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+package.json notes: Ubuntu requires "start": "react-scripts --openssl-legacy-provider start" - removed -openssl-legacy-provider for OSX.
+		
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on : Personal projects for future career development.
+🌱 I’m currently learning : React & Drupal 10
+📫 How to reach me: : dev@danielpouley.com
+😄 Pronouns: he/him
